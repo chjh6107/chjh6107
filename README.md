@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **chjh6107/chjh6107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +17,4 @@ Here are some ideas to get you started:
 ### Solved.ac Tier
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k6186&cache=c">
+[![Jonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chjh6107)](https://github.com/anuraghazra/github-readme-stats)
